@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+.venv/
+.env/
+
+# Outputs
+result_grid.png
+loss_curve.png
+
+# VSCode
+.vscode/
+
+# System
+Thumbs.db
+.DS_Store
